@@ -98,7 +98,7 @@ Here are some ideas to get you started:
   <summary> <b> </b> <i>(click to expand!)</i> </summary>
   <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <br/>
@@ -110,13 +110,13 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cretchas&show_icons=true&theme=tokyonight" alt="Crescencio's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cretchas&show_icons=true&theme=default" alt="Crescencio's github stats" />
 </p>
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cretchas&theme=tokyonight" alt="Crescencio's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cretchas&theme=default" alt="Crescencio's github stats" />
 </p>
 
 </details>
