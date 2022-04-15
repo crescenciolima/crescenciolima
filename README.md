@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### Talking about me
 
+<img width="18" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" />
+<img width="16" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg" alt="Bahia" />
+-->
+
 <p>
-  I'm Crescencio, Professor at the Computer Department of the Federal Institute of Bahia (IFBA) campus Vitória da Conquista <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bandeira_da_Bahia.svg" alt="Bahia" />
-  <b>Bahia</b>, Brazil.
-  <img width="16" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" />
-  <b>Brazil</b>.
+  I'm Crescencio, Professor at the Computer Department of the Federal Institute of Bahia (IFBA) campus Vitória da Conquista, Bahia, Brazil.
 </p>
 
-- I’m currently learning about Empirical Software Engineering, Mining Software Repositories; 
+- 🔭 I’m currently learning about Empirical Software Engineering, Mining Software Repositories; 
+- ⚡ Fun fact: My nickname is CRETCHAS since childhood.
 
 ### Where to find me:
 
@@ -89,21 +91,22 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <br/>
-
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&theme=tokyonight" alt="Crescencio's languages" />
 </p>
+-->
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cretchas&show_icons=true&theme=tokyonight" alt="Crescencio's github stats" />
 </p>
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cretchas&theme=tokyonight" alt="Crescencio's github stats" />
 </p>
 
