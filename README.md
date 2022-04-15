@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <code><img alt="My linkedin" width="28" src="https://simpleicons.org/icons/linkedin.svg" /></code>
 </a>
 
-<a href="mailto:crescencio@gmail.com">
+<a href="mailto:crescencio@ifba.edu.br">
   <code><img alt="My e-mail" width="32" src="https://simpleicons.org/icons/maildotru.svg" /></code>
 </a>
 
