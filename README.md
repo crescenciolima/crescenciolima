@@ -1,6 +1,10 @@
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-website-green?colorA=61c265&colorB=4CAF50&style=for-the-badge)](https://www.crescenciolima.com)
+[![crescencio-lima](https://img.shields.io/badge/crescencio--lima-channel-green?colorA=ef5350&colorB=d32f2f&style=for-the-badge)](https://www.youtube.com/c/CrescencioLima/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
-<!--
 **cretchas/cretchas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
