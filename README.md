@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <code><img height="32" src="https://simpleicons.org/icons/java.svg" alt="Java"/></code>
 <code><img height="32" src="https://simpleicons.org/icons/python.svg" alt="Python"/></code>
-<code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS9H0CRX9PaTJBa0v64U7WZilTZtW2HIACg&usqp=CAU" alt="Latex"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="Latex"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
