@@ -60,6 +60,10 @@ Here are some ideas to get you started:
 
 ## Skills
 
+<details>
+  <summary> <b> </b> <i>(click to expand!)</i> </summary>
+  <br />
+
 **Languages**
 
 <code><img height="32" src="https://simpleicons.org/icons/java.svg" alt="Java"/></code>
@@ -83,11 +87,15 @@ Here are some ideas to get you started:
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-
+</details>
 
 <br/>
 
 ## Coding Activity
+
+<details>
+  <summary> <b> </b> <i>(click to expand!)</i> </summary>
+  <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -110,6 +118,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cretchas&theme=tokyonight" alt="Crescencio's github stats" />
 </p>
 
+</details>
 <br/>
 
 <p align="right">
