@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <code><img alt="My e-mail" width="32" src="https://simpleicons.org/icons/maildotru.svg" /></code>
 </a>
 
-<a href="https://www.crescenciolima.com/">
+<a href="https://cretchas.github.io/">
   <code><img alt="My Site" width="28" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" /></code>
 </a>
 
