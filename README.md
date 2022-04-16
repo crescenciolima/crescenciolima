@@ -60,7 +60,8 @@ Here are some ideas to get you started:
   <summary> <b> </b> <i>(click to expand!)</i> </summary>
   <br />
 
-**Programming Languages**
+
+### Programming Languages
   
 <a href="https://www.java.com/en/" target="blank">
 <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></a>
@@ -79,7 +80,8 @@ Here are some ideas to get you started:
   </a>  
 
 
-**Frameworks**
+
+### Frameworks
 
    <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
