@@ -44,10 +44,6 @@ Here are some ideas to get you started:
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://cretchas.github.io/">
-  <code><img alt="My Site" width="28" src="https://simpleicons.org/icons/homeassistantcommunitystore.svg" /></code>
-</a>
-
 <a href="https://twitter.com/cretchas">
   <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
@@ -81,6 +77,8 @@ Here are some ideas to get you started:
   <a href="#">
     <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
   </a>  
+
+<br />
 
 **Frameworks**
 
