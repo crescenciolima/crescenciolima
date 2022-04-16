@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <summary> <b> </b> <i>(click to expand!)</i> </summary>
   <br />
 
-**Languages**
+**Programming Languages**
   
 <a href="https://www.java.com/en/" target="blank">
 <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></a>
@@ -78,7 +78,6 @@ Here are some ideas to get you started:
     <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<br />
 
 **Frameworks**
 
@@ -88,11 +87,13 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django"/></code>
 <code><img height="32" src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit"/></code>
 
+<br />
 
 **DataBase**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+
 
 **DevOps**
 
@@ -123,6 +124,7 @@ Here are some ideas to get you started:
   </a> 
 
 <br/>
+</details>
 
 ## Coding Activity
 
