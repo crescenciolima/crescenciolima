@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/crescencio-lima-63b66320/">
-  <code><img alt="My linkedin" width="28" src="https://simpleicons.org/icons/linkedin.svg" /></code>
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="mailto:crescencio@ifba.edu.br">
-  <code><img alt="My e-mail" width="32" src="https://simpleicons.org/icons/maildotru.svg" /></code>
+    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="https://cretchas.github.io/">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://twitter.com/cretchas">
-  <code><img alt="My Twitter" width="28" src="https://simpleicons.org/icons/twitter.svg" /></code>
+  <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="http://lattes.cnpq.br/9104143705992817">
@@ -67,16 +67,26 @@ Here are some ideas to get you started:
 **Languages**
   
 <a href="https://www.java.com/en/" target="blank">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></a>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" alt="Python"/></code>
+<img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></a>
+<a href="#">
+<img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+</a>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="Latex"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 **Frameworks**
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+   <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>  
 <code><img height="32" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django"/></code>
 <code><img height="32" src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit"/></code>
 
@@ -89,8 +99,30 @@ Here are some ideas to get you started:
 **DevOps**
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-</details>
+  <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  **Tools**
+
+  <a href="#">
+    <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
 <br/>
 
