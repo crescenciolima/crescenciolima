@@ -89,22 +89,24 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django"/></code>
 <code><img height="32" src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit"/></code>
 
-<br />
 
-**DataBase**
+
+### DataBases
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
 
-**DevOps**
+
+### DevOps
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
   <a href="#">
     <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-  **Tools**
+
+### Tools
 
   <a href="#">
     <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
@@ -125,7 +127,20 @@ Here are some ideas to get you started:
     <img src="svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-<br/>
+
+### Devices
+  <a href="#">
+    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/devices/playstation.svg" alt="playstation" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 </details>
 
 ## Coding Activity
