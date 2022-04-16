@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="http://lattes.cnpq.br/9104143705992817">
-  <code><img alt="My Lattes" width="28" src="http://simpleicon.com/wp-content/uploads/note-64x64.png" /></code>
+  <img src="svg/academic/lattes.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <br/>
