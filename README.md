@@ -35,25 +35,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My nickname is CRETCHAS since childhood.
 
 <samp>
-    I believe in a world where Coffee can solve any and all problems :grin:
-  </samp>
+  I believe in a world where Coffee can solve any and all problems :grin:
+</samp>
 
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/crescencio-lima-63b66320/">
-    <code><img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></code>
+  <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="mailto:crescencio@ifba.edu.br">
-    <code><img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px"></code>
+    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="https://twitter.com/cretchas">
-  <code><img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px"></code>
+  <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="http://instagram.com/cretchas/">
-  <code><img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"></code>
+  <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <br/>
@@ -104,22 +104,20 @@ Here are some ideas to get you started:
 ### Programming Languages
   
 <a href="https://www.java.com/en/" target="blank">
-<code><img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></code></a>
+<img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></a>
 <a href="#">
-<code><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></code>
+<img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
 </a>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="Latex"/></code>
-  <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
-    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="Latex"/>
+<a href="#">
+  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+  <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+  <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+</a>  
 
 ### Frameworks
 
@@ -129,26 +127,28 @@ Here are some ideas to get you started:
    <a href="#">
     <img src="svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:6px 4px">
   </a>  
-
-<code><img height="32" src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit"/></code>
-
-
+   <a href="#">
+    <img src="svg/dev/frameworks/junit.svg" alt="junit" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 ### DataBases
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+   <a href="#">
+    <img src="svg/dev/db/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
+  </a>
 
-
+   <a href="#">
+    <img src="svg/dev/db/postgres.svg" alt="postgres" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 ### DevOps
 
  <a href="#">
-    <code><img src="svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:6px 4px"></code>
+    <img src="svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:6px 4px">
   </a> 
 
   <a href="#">
-    <code><img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"></code>
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 Heroku
