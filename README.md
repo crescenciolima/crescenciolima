@@ -104,9 +104,9 @@ Here are some ideas to get you started:
 ### Programming Languages
   
 <a href="https://www.java.com/en/" target="blank">
-<img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></a>
+<code><img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"></code></a>
 <a href="#">
-<img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+<code><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></code>
 </a>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="Latex"/></code>
   <a href="#">
