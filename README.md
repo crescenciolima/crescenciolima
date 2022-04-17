@@ -52,6 +52,9 @@ Here are some ideas to get you started:
   <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
 
+<a href="http://instagram.com/cretchas/">
+  <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+</a>
 
 <br/>
 
@@ -67,20 +70,24 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://orcid.org/0000-0002-0286-2056">
-  <img src="svg/academic/ORCID.svg" alt="orcid" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/academic/orcid.svg" alt="orcid" style="vertical-align:top; margin:6px 4px">
 </a>
 
 ### Publications
+<a href="https://ifba.academia.edu/CrescencioRodriguesLimaNeto">
+  <img src="svg/academic/academia.svg" alt="academia" style="vertical-align:top; margin:6px 4px">
+</a>
+
 <a href="http://dblp.uni-trier.de/pers/hd/n/Neto:Crescencio_Rodrigues_Lima">
-  <img src="svg/academic/DBLP.svg" alt="dblp" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/academic/dblp.svg" alt="dblp" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en">
-  <img src="svg/academic/Google_Scholar.svg" alt="Google Scholar" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/academic/google_scholar.svg" alt="Google Scholar" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="https://www.researchgate.net/profile/Crescencio_Lima">
-  <img src="svg/academic/Research_Gate.svg" alt="Research Gate" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/academic/research_gate.svg" alt="Research Gate" style="vertical-align:top; margin:6px 4px">
 </a>
 
 Academia, ARVIX, ZENODO
