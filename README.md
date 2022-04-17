@@ -63,15 +63,27 @@ Here are some ideas to get you started:
 
 ### Curriculum Vitae
 <a href="http://lattes.cnpq.br/9104143705992817">
-  <img src="svg/academic/lattes.svg" alt="lattes" target="_blank" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/academic/lattes.svg" alt="lattes" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="https://orcid.org/0000-0002-0286-2056">
-  <img src="svg/academic/ORCID.svg" alt="orcid" target="_blank" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/academic/ORCID.svg" alt="orcid" style="vertical-align:top; margin:6px 4px">
 </a>
 
 ### Publications
-Academia, ARVIX, DBLP, Google Scholar, RESEARCH GATE, ZENODO
+<a href="http://dblp.uni-trier.de/pers/hd/n/Neto:Crescencio_Rodrigues_Lima">
+  <img src="svg/academic/DBLP.svg" alt="dblp" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://scholar.google.com.br/citations?user=0DzUe-YAAAAJ&hl=en">
+  <img src="svg/academic/Google_Scholar.svg" alt="Google Scholar" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://www.researchgate.net/profile/Crescencio_Lima">
+  <img src="svg/academic/Research_Gate.svg" alt="Research Gate" style="vertical-align:top; margin:6px 4px">
+</a>
+
+Academia, ARVIX, ZENODO
 
 </details>
 
