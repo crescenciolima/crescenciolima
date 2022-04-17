@@ -143,9 +143,12 @@ Here are some ideas to get you started:
 
 ### DevOps
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+ <a href="#">
+    <code><img src="svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:6px 4px"></code>
+  </a> 
+
   <a href="#">
-    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+    <code><img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px"></code>
   </a> 
 
 Heroku
