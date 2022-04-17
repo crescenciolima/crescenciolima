@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   <img src="svg/academic/Research_Gate.svg" alt="Research Gate" style="vertical-align:top; margin:6px 4px">
 </a>
 
-Academia, ARVIX, ZENODO
+<!-- ARVIX, ZENODO -->
 
 </details>
 
@@ -126,7 +126,10 @@ Academia, ARVIX, ZENODO
    <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>  
-<code><img height="32" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django"/></code>
+   <a href="#">
+    <img src="svg/dev/frameworks/django.svg" alt="django" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 <code><img height="32" src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit"/></code>
 
 
