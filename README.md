@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <summary> <b> </b> <i>(click to expand!)</i> </summary>
   <br />
 
-### CV
+### Curriculum Vitae
 <a href="http://lattes.cnpq.br/9104143705992817">
   <img src="svg/academic/lattes.svg" alt="lattes" style="vertical-align:top; margin:6px 4px">
 </a>
@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 
 ### Publications
 Academia, ARVIX, DBLP, Google Scholar, RESEARCH GATE, ZENODO
+
+</details>
 
 ## Skills
 
