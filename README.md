@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning about Empirical Software Engineering, Mining Software Repositories; 
 - ⚡ Fun fact: My nickname is CRETCHAS since childhood.
 
+<samp>
+    I believe in a world where Coffee can solve any and all problems :grin:
+  </samp>
+
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/crescencio-lima-63b66320/">
@@ -48,11 +52,26 @@ Here are some ideas to get you started:
   <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="http://lattes.cnpq.br/9104143705992817">
-  <img src="svg/academic/lattes.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-</a>
 
 <br/>
+
+## Research
+
+<details>
+  <summary> <b> </b> <i>(click to expand!)</i> </summary>
+  <br />
+
+### CV
+<a href="http://lattes.cnpq.br/9104143705992817">
+  <img src="svg/academic/lattes.svg" alt="lattes" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://orcid.org/0000-0002-0286-2056">
+  <img src="svg/academic/ORCID.svg" alt="orcid" style="vertical-align:top; margin:6px 4px">
+</a>
+
+### Publications
+Academia, ARVIX, DBLP, Google Scholar, RESEARCH GATE, ZENODO
 
 ## Skills
 
@@ -105,6 +124,7 @@ Here are some ideas to get you started:
     <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
 
+Heroku
 
 ### Tools
 
