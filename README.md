@@ -143,15 +143,17 @@ Here are some ideas to get you started:
 
 ### DevOps
 
+  <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
  <a href="#">
     <img src="svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:6px 4px">
   </a> 
 
   <a href="#">
-    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/heroku.svg" alt="heroku" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-Heroku
 
 ### Tools
 
