@@ -198,25 +198,25 @@ Here are some ideas to get you started:
   <summary> <b> </b> <i>(click to expand!)</i> </summary>
   <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescenciolima&layout=compact&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <br/>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cretchas&layout=compact&theme=tokyonight" alt="Crescencio's languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crescenciolima&layout=compact&theme=tokyonight" alt="Crescencio's languages" />
 </p>
 -->
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cretchas&show_icons=true&theme=default" alt="Crescencio's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crescenciolima&show_icons=true&theme=default" alt="Crescencio's github stats" />
 </p>
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cretchas&theme=default" alt="Crescencio's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crescenciolima&theme=default" alt="Crescencio's github stats" />
 </p>
 
 </details>
@@ -224,7 +224,7 @@ Here are some ideas to get you started:
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/cretchas/cretchas" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/crescenciolima/crescenciolima" alt="Visitors badge" />
    </a>
 </p>
 
