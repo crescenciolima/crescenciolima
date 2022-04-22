@@ -222,10 +222,6 @@ Here are some ideas to get you started:
 </details>
 <br/>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/crescenciolima/crescenciolima" alt="Visitors badge" />
-   </a>
-</p>
+
 
 
