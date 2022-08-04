@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning about Empirical Software Engineering, Mining Software Repositories; 
 - ⚡ Fun fact: My nickname is CRETCHAS since childhood.
+- :musical_score: I´m a music producer and multi-instrumentalist :guitar:
+
 
 <samp>
   I believe in a world where Coffee can solve any and all problems :grin:
