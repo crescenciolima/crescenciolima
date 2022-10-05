@@ -202,7 +202,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescenciolima&layout=compact&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ![Crescencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=crescenciolima&count_private=true)
+-->
 
 <!--
 <br/>
