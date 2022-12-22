@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/crescencio-lima-63b66320/">
+<a href="https://www.linkedin.com/in/crescenciolima/">
   <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
 
